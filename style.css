@@ -17,7 +17,7 @@ a {
 
 
 ul {
-  list-style-image:  url("/uploads/student/4503624/69db3147f1c64.png");
+  list-style-image:  url("https://learn.alg.academy/uploads/student/4503624/69db3147f1c64.png");
   list-style-position: inside;
   display:block;
  justify-content: center;
